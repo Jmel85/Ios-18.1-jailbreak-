@@ -1,0 +1,7 @@
+echo "# Ios-18.1-jailbreak-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jmel85/Ios-18.1-jailbreak-.git
+git push -u origin main
